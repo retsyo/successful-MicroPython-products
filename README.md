@@ -13,11 +13,13 @@ Why there is both "link(s)" and "where I found it"? Because sometimes, it is har
 
 ======
 
-What is a "[MicroPython](https://www.micropython.org/) product", I think  it must not merely be a development board which supports programming with [MicroPython](https://www.micropython.org/) for explore the development board itself, but a [MicroPython](https://www.micropython.org/)-powered product for other functionality/usage.
+What is a "[MicroPython](https://www.micropython.org/) product"? I think  it must not merely be a development board which supports programming with [MicroPython](https://www.micropython.org/) for explore the development board itself, but a [MicroPython](https://www.micropython.org/)-powered product for other functionality/usage.
 
-I found this question has been asked in this forum for several times. At the same time I often met the similar question in the discussion in my local Instant Messaging applications.
+This question has been asked in [MicroPython forum](https://forum.micropython.org) for several times. At the same time I often met the similar question in the discussion in my local Instant Messaging applications.
 
-So I am asking whether there is such an official list for successful [MicroPython](https://www.micropython.org/) products. If not, can we make one? Such list will not only shows the ability of [MicroPython](https://www.micropython.org/) to people from Arduino/C/CPP/ASM, but also, to be frankly, let [MicroPython](https://www.micropython.org/) user like me, a newbie, have more confidence during learning and practicing in [MicroPython](https://www.micropython.org/).
+No such an official list for successful [MicroPython](https://www.micropython.org/) products exists So I created my own one. 
+
+Such list will not only shows the ability of [MicroPython](https://www.micropython.org/) to people from Arduino/C/CPP/ASM, but also, to be frankly, let [MicroPython](https://www.micropython.org/) user like me, a newbie, have more confidence during learning and practicing in [MicroPython](https://www.micropython.org/).
 
 The list can be roughly grouped as open-sourced, close-sourced, and commercial products(yes, I know there is no direct relation between close-sourced and commercial product). External news, product webpage or video is necessary, otherwise the evidence is too weak to convince.
 
